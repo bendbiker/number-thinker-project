@@ -1,4 +1,4 @@
-
+#You can create new variables by doing this new_variable=newvalue
 echo "Hello, What is your name [Type it in]"
 read name
 echo Hello, $name
